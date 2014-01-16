@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">旭通达拍卖</string>
+    <string name="action_settings">设置</string>
+    <string name="action_exit">退出</string>
+    <string name="image_note">图片</string>
+    <string name="hello_world">欢迎来到旭通达拍卖!</string>
+    <string name="title_activity_auction_detail">AuctionDetail</string>
+
+</resources>
