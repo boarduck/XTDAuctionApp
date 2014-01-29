@@ -7,5 +7,12 @@
     <string name="image_note">图片</string>
     <string name="hello_world">欢迎来到旭通达拍卖!</string>
     <string name="title_activity_auction_detail">AuctionDetail</string>
-
+ <string name="goods_text">货物介绍</string>
+  <string name="bid_text">手工出价</string>
+   <string name="autobid_text">自动出价</string>
+    <string name="bidprice_text">请输入价格</string>
+ <string name="init_price">底价: 10,000,000</string>
+ <string name="current_price">当前价格:30,000,000</string>
+ <string name="jt_price">阶梯价:100,000</string>
+  <string name="zero_price">0</string>
 </resources>
